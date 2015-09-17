@@ -1,6 +1,6 @@
 1 this is line 1
 2 this is line 2
-3 this is line 3
+3 this is line 3 % I don't like this number
 4 this ls line 4
 5 this is more boring than counting sheep
 6 another line
