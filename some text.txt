@@ -1,4 +1,4 @@
-1 this is line 1
+1 this is line 1 This line will cause some conflict
 2 this is line 2
 3 this is line 3
 4 this ls line 4
