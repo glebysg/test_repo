@@ -1,0 +1,6 @@
+1 this is line 1 and im changing it ojojo
+2 this is line 2
+3 this is line 3
+4 this ls line 4
+5 this is more boring than counting sheep\
+I added a new line
