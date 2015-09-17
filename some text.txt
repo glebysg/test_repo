@@ -1,5 +1,9 @@
-1 this is line 1
+1 this is line 1 And this edit will cause conflict
 2 this is line 2
 3 this is line 3
 4 this ls line 4
 5 this is more boring than counting sheep
+6 another line
+7 i promise this has a goal
+8 yey yey this is good 
+9 One more just in case
